@@ -25,15 +25,21 @@ Hi, I'm David — From Healthcare to Data Care, passionate about uncovering insi
 
 ---
 
-## 📁 Featured Projects
+## 🧩 Featured Projects – Suburb Insights Series
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **[Suburb Insights Dashboard](#)** | Data warehouse + Power BI dashboard analyzing crime, school performance, transport and housing in Australian suburbs. | SQL, SSIS, Power BI |
-| **[Retinal Screening Attendance Tracker](#)** | Simple Excel dashboard tracking appointment attendance rates, created during my work in primary health. | Excel |
-| **[Public Health Datasets Cleanup](#)** | Data wrangling and cleaning project using Python and SQL to standardize datasets for analysis. | Python, SQL |
 
----
+### 📐 DataWarehouse-Design
+
+### ⚙️ ETL-SSIS-SuburbData
+
+### 📊 SSRS-SuburbReports
+
+### 📈 PowerBI-SuburbDashboards
+
+### 🔗 SSRS-PowerBI-Integration
+
+### 📁 Documentation-SuburbAnalytics
+
 
 ## 🤝 Let’s Connect
 
