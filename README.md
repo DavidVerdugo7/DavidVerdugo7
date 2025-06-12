@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Verdugo
 =====================================================================================================================================
 
-# 👨‍⚕️ From Healthcare to Data Care
 
 Hi, I'm David — From Healthcare to Data Care, passionate about uncovering insights and improving decision-making through data. My journey began in healthcare, and today, I bring that same precision and care to data analytics.
 
