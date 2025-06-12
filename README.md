@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 👨‍⚕️ From Healthcare to Data Care
 
-Hi, I'm David — a former medical doctor turned Data Analyst, passionate about uncovering insights and improving decision-making through data. My journey began in healthcare, and today, I bring that same precision and care to data analytics.
+Hi, I'm David — From Healthcare to Data Care, passionate about uncovering insights and improving decision-making through data. My journey began in healthcare, and today, I bring that same precision and care to data analytics.
 
 🔍 I work with real-world public health and socio-demographic data, building dashboards, automating reports, and cleaning messy data to extract meaningful stories. Passionate about transforming complex healthcare and business data into meaningful insights. I am also problem solver with a strong desire to keep learning and contributing across industries.
 
